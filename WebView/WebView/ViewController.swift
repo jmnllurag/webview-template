@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var backButton: UIBarButtonItem!
     @IBOutlet weak var forwardButton: UIBarButtonItem!
     @IBOutlet weak var refreshButton: UIBarButtonItem!
-    @IBOutlet weak var bookmarkButton: UIBarButtonItem!
     
     @IBOutlet weak var activityIndicatorView: UIActivityIndicatorView!
     
